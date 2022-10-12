@@ -1,0 +1,176 @@
+
+<html>
+<head>
+        
+        
+</head>
+<body>
+         <body style="background-color:skyblue;">
+        <h1>BIOGRAPHY<h1>
+        <img src =" C:\Users\USER\Downloads\flag2.jpg " height="200","width=200"></img>  
+   <img src =" C:\Users\USER\Downloads\asis.jpg " height="500","width=500"></img>     
+   <img src =" C:\Users\USER\Downloads\everest.jpg " height="300","width=200"></img>    
+   <h1>Name:Thapa Ashish 
+   </h1></p>
+   <p>My name is Ashish Thapa.I am from Biratnagar nepal which is located in eastern part of Nepal .I have 4 memeber in my family father,mother ,me and my sister .I did my schoolling from Birat co-operative english Boarding school which is located in Biratnagar.After that i have huge curious about engineering so that i started studying diploma in computer engineering in purwanchal engineering college residing in Dharan .After that i started working in It company as junior engineer in Biratnagar .I feel to explore me to study in diffirent location as india is near by my city ,i got chance to study Btech in computer science and Engineering in Hyderabad ,india .After that i did some training course for programming knowledge like c++,java ,javascript as well as i also did training in firewall technology for networking course.</p><br></br>
+   After that i came to nepal and started to search job in kathmandu nepal .So due to my hardwork i got chance to do internship in genese softwware solution company which was cloud based company originated from United kingdom(UK). I did work as python developer and i learned Amazon Webservice as cloud,serverless computing ,storage for cloud and Artitecture of serverless computing etc .After a year i joined mobile app developer which is based on Dart programming language .I learned many stuff related to apps development .And also i got change to interact with client for their demand for mobile apps software .<br></br>
+   Again i want to explore and continue my further study in abroad .I choosed japan because it is best among many developing country for information technology ,Robotics programming,as well sensor system etc.So i did research to study IT related course such as web technology ,mobile software development ,Networking Then, I got chance to get admission in The kyoto college of Gtraduate studies for informatics (KCGI).NOW I am here in  KCGI and i am studying MSC in web businesss technology .<br></br>
+
+   <h1>My Hometown  </h1>
+   <img src =" C:\Users\USER\Downloads\biratnagar1.jpg " height="500","width=500"></img>     
+   <p>Biratnagar  is a metropolitan city in Nepal, which serves as the capital of Province No. 1 and was the capital city of King Virata in Mahabharat era. With a population of 242,548 as per the 2011 census, it is the largest city in the province and also the headquarters of Morang district. As per the preliminary report of 2021 Nepal census, Biratnagar has an estimated city population of 244,750. It is one of the cities of the Greater Birat Development Area which incorporates the cities of Biratnagar-Itahari-Gothgau-Biratchowk-Dharan, primarily located on the Koshi Highway in Eastern Nepal, with an estimated total urban agglomerated population of 804,300 people living in 159,332 households. Biratnagar is located 399 km (248 mi) east of the capital, Kathmandu, and 6 km (3.7 mi) north of the bordering town of Jogbani in the Indian state of Bihar. The highest peak in the world, Mount Everest, is situated 174 km (108 mi) north of the city.<p>
+         <h1>Current Address </h1>
+   <img src =" C:\Users\USER\Downloads\kyoto.jpg " height="500","width=500"></img>     
+   <p>
+
+
+
+Kyoto is one of the oldest municipalities in Japan, having been chosen in 794 as the new seat of Japan's imperial court by Emperor Kanmu. The original city, named Heian-kyō, was arranged in accordance with traditional Chinese feng shui following the model of the ancient Chinese capital of Chang'an/Luoyang. The emperors of Japan ruled from Kyoto in the following eleven centuries until 1869. It was the scene of several key events of the Muromachi period, Sengoku period, and the Boshin War, such as the Ōnin War, the Honnō-ji Incident, the Kinmon incident and the Battle of Toba–Fushimi. The capital was relocated from Kyoto to Tokyo after the Meiji Restoration. The modern municipality of Kyoto was established in 1889. <br></br>The city was spared from large-scale destruction during World War II and as a result, its prewar cultural heritage has mostly been preserved.
+
+Kyoto is considered the cultural capital of Japan and is a major tourist destination. It is home to numerous Buddhist temples, Shinto shrines, palaces and gardens, some of which have been designated collectively as a World Heritage Site by UNESCO. Prominent landmarks include the Kyoto Imperial Palace, Kiyomizu-dera, Kinkaku-ji, Ginkaku-ji, and Kyoto Tower. Kyoto is also a center of higher learning in the country, and its institutions include Kyoto University, the second oldest university in Japan.
+        <p>
+                <h1>Currently studying  in KCGI  </h1>
+                <img src =" C:\Users\USER\Downloads\college.jpg " height="500","width=500"></img>     
+   <p>
+
+
+
+Kyoto is one of the oldest municipalities in Japan, having been chosen in 794 as the new seat of Japan's imperial court by Emperor Kanmu. The original city, named Heian-kyō, was arranged in accordance with traditional Chinese feng shui following the model of the ancient Chinese capital of Chang'an/Luoyang. The emperors of Japan ruled from Kyoto in the following eleven centuries until 1869. It was the scene of several key events of the Muromachi period, Sengoku period, and the Boshin War, such as the Ōnin War, the Honnō-ji Incident, the Kinmon incident and the Battle of Toba–Fushimi. The capital was relocated from Kyoto to Tokyo after the Meiji Restoration. The modern municipality of Kyoto was established in 1889. <br></br>The city was spared from large-scale destruction during World War II and as a result, its prewar cultural heritage has mostly been preserved.
+
+
+
+
+
+
+<h1>Some Example of Html Tag</h1>
+
+
+ <!-- sub tag example -->
+<h2>Chemical Formula of Water</h2>
+     
+<h2>H<sub>2</sub>O</h2>
+
+ <!-- sup tag example -->
+ <p>The area of the box is 36 ft<sup>2</sup>.</p>
+
+<!-- i tag example -->
+<p><i>Html</i> is the most popular programming language.</p>
+
+
+ <!-- abbr tag example  -->
+<p>
+This website is all about <abbr title="HyperText Markup Language">HTML</abbr>.
+
+Read more: https://html.com/tags/abbr/#ixzz7hNvEjK7H</p>
+
+
+<!-- strong tag example  -->
+<p><strong>This page  is very  important for my details !</strong></p>
+
+
+<!-- detail tag example  -->
+
+
+<details>
+        <h1>Top IT company in Biratnagar  </h1>
+  <summary>Websoft IT nepal</summary>
+  <p>Websoft IT Nepal Pvt. Ltd. will remain committed to delivering the best value in Internet hosting by providing a safe, reliable and efficient process to create an Internet presence – all with a price structure driven by value. we will provide all services related to web technology from computer classes to web software developer as well as server configuration system. Websoft IT Nepal is situated at Biratnagar, Morang Nepal. The name of the district is Koshi district. The office is situated at the Hatkhola Biratnagar Morang Nepal. Websoft IT Nepal is the IT related office.
+.</p>
+<h1>Some Example of HTML Tag</h1>
+</details>
+
+<h2>working in Different domain  </h1>
+
+
+
+        <!-- label tag example  -->
+<label for="disk_c">Mobile apps development:</label>
+<meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
+
+<label for="disk_d">Software development:</label>
+<meter id="disk_d" value="0.6">60%</meter><br></p></br>
+<label for="disk_c">Database development :</label>
+<meter id="disk_c" value="2" min="0" max="50">2 out of 10</meter><br>
+
+<label for="disk_d">Cloud storage:</label>
+<!-- meter tag example  -->
+<meter id="disk_d" value="0.6">40%</meter>
+
+
+
+
+<!-- samp tag example -->
+<p><samp>File not found.<br>Press F1 to continue</samp></p>
+ <!-- code tag example  -->
+  <code>
+#include<stdio.h>
+int main() {
+    printf("Hello world");
+}
+<!--code Tag starts here -->
+      </code>
+       <img src =" C:\Users\USER\Downloads\logo.jpg " height="400","width=300"></img>     
+      
+<p><cite>The Websoft IT nepal </cite> founded  by Manish kc in 1993.</p>
+
+
+
+<!-- em  tag example  -->
+
+        <p>You <em>have
+
+
+
+<p>We <em>cannot</em>e</em> to hurry up!</p>
+ live like this.</p>
+<!-- sit amet -->
+ <abbr title="Hyper Text Transfer protocol">HTTP</abbr>
+ p>This text contains <sub>subscript</sub> text.</p>
+ <p>T<sub>i+2</sub>= T<sub>i</sub> + T<sub>i+1</sub></p>
+
+<p>2 <sup>4</sup>=16</p><br></br>
+<img src =" C:\Users\USER\Downloads\sold.jpg " height="200","width=200"></img>   
+
+
+<!-- s tag example   -->
+<p><s>Only 50 tickets left!</s></p>
+<p>SOLD OUT!</p>
+p><i>Lorem ipsum</i> is the most popular filler text in history.</p>
+
+
+
+
+<!-- underline  tag example   -->
+<p>This is some <u>mispeled</u> text.</p>
+<h1>My summary </h1>
+      
+   <p> I am happy to create simple website using Html also i show my biodata through this website .In future i want to establish my own It COMpany in nepal .I am very happy to be student of Amit sir and thanks to him for teaching us web programming in a practical way so that we can gain more handon experience in frontend development like Html A nd css..<p>
+        <h1>Review of this website</h1>
+            <form action="/action_page.php">
+  <input type="radio" id="good" name="fav_language" value="Good">
+  <label for="html">Good</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">Very Good</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">Excellent</label><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<!-- wbr tag example   -->
+<p>GFGstandsforGeeksforGeeksanditis<wbr>acomputerscienceportalforgeeks.</p>
+
+<!-- address tag example   -->
+<address>
+Written by <a href="mailto:webmaster@example.com">Thapa Ashish</a>.<br>
+Visit us at:<br>
+Example.com<br>
+Box 502, Kyoto<br>
+Japan
+</address>
+<b>Thankyou </b>.</p>
+
+
+</body>
+       
+
+</html>
